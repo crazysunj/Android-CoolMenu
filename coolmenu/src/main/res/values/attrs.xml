@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="centerLayout" format="reference" />
+    <attr name="isDrag" format="boolean" />
+    <attr name="isFling" format="boolean" />
+    <declare-styleable name="coolmenu">
+        <attr name="centerLayout" />
+        <attr name="isDrag" />
+        <attr name="isFling" />
+    </declare-styleable>
+</resources>
